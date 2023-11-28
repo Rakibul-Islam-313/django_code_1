@@ -8,5 +8,5 @@ def home(request):
 def courses(request):
     return HttpResponse("This is courses page.")
 
-def about(request)
+def about(request):
     return HttpResponse("This is about page.")
